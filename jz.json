@@ -3,11 +3,12 @@
   "name":"弔人"
     "money":10
   },
+  {
+  "name":"。。。"
+    "money":3
+  },
 {
   "name":"百Ice"
     "money":2
-  },{
-  "name":"。。。"
-    "money":3
   }
 ]
