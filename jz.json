@@ -43,4 +43,12 @@
   "name":"源"
     "money":0.1
   },
+   {
+  "name":"名称不能为空"
+    "money":5
+  },
+   {
+  "name":"HXH"
+    "money":5
+  },
 ]
