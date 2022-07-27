@@ -8,7 +8,7 @@
     "money":30
   },
   {
-  "name":"百Ice"
+  "name":"白Ice"
     "money":5
   },
   {
@@ -98,5 +98,9 @@
   {
   "name":"雨洛Rainstorm"
    "money":0.74
+  },
+  {
+  "name":"夏风"
+   "money":3
   },
 ]
