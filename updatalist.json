@@ -1,7 +1,7 @@
 [
   {
-  "version":0.08,
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.08.jar.jar",
-    "log":"加入了在线更新功能\n加入了版本下载功能\n星球尝试修复\n暗黑单位以及核心属性修改"
+  "version":0.081,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.081.jar",
+    "log":"加入啦指令系统,在聊天栏中输入帮助即可查看\n加入啦几个小特效\n在线更新系统解决啦手机闪退问题\n优化了在线更新残留文件问题\n加载更新界面加入了logo\n不想要自动检测更新的可以在高科技设置关闭"
   },
 ]
