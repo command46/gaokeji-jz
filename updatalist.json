@@ -1,5 +1,10 @@
 [
   {
+  "version":0.082,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.082.jar",
+    "log":"优化了检测更新的速度(降低延迟)\n主界面加入作者名字(一个模组作者他的群里有人问高科技模组问题怪我没写作者)\n液体售卖机目前什么液体都能卖啦\n新增加增压涡轮发电机,大型钢铁太阳能板,钢铁太阳能板\n,合金热量发电机,大型钢铁电池,钢铁电池\n,钢铁粉碎机,合金熔炉\n祝你有愉快的一天"
+  },
+  {
   "version":0.081,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.081.jar",
     "log":"加入啦指令系统,在聊天栏中输入帮助即可查看\n加入啦几个小特效\n在线更新系统解决啦手机闪退问题\n优化了在线更新残留文件问题\n加载更新界面加入了logo\n不想要自动检测更新的可以在高科技设置关闭"
