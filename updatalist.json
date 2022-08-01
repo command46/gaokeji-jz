@@ -1,5 +1,10 @@
 [
   {
+  "version":0.083,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.083.jar",
+    "log":"修复了投喂榜的排名计算问题\n聚合币价格调整\n主界面提示框关闭按钮移到中间\n电磁干扰炮塔耗电量提升\n集束炸弹卡顿优化\n集束炸弹威力增强\n提示更新界面加入音乐(可关闭)\n加入紫玄炮塔,合金熔炉贴图加入,合金熔炉加强\n风扇散热器可以给钍反散热了(虽然散热不下来)\n液体物品节点材料修改\n核能运输的建筑分类到逻辑栏\n聚合币购买价钱调整\n修复星球可能不闪退了\n加入寂灭炮塔\n更新界面加入了音乐以及图片"
+  },
+  {
   "version":0.082,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.082.jar",
     "log":"优化了检测更新的速度(降低延迟)\n主界面加入作者名字(一个模组作者他的群里有人问高科技模组问题怪我没写作者)\n液体售卖机目前什么液体都能卖啦\n新增加增压涡轮发电机,大型钢铁太阳能板,钢铁太阳能板\n,合金热量发电机,大型钢铁电池,钢铁电池\n,钢铁粉碎机,合金熔炉\n祝你有愉快的一天"
