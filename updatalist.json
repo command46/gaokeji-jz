@@ -1,5 +1,10 @@
 [
  {
+  "version":0.0845,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.0845.jar",
+    "log":"海啸等炮塔加入岩浆子弹\n适配v137版本注意:137以下更新可能会出现Bug建议备份好游戏数据\n加入了聚合币发射台\n修改模组列表\n悄悄话更新"
+  },
+ {
   "version":0.084,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.084.jar",
     "log":"在更新完成界面加入了3秒后才能关闭的按钮\n悄悄话更新!\n更新日志颜色修改为蓝色\n暗黑初始地降落核心修复\n修复了几个星球的进去就占领的bug\n模组列表修改\n反射合金配方从终极工厂移除\n加入新工厂反射合金压缩机\n之前漏写的更新日志:加入了液氮压缩机"
