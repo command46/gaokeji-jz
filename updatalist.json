@@ -3,25 +3,30 @@
   "version":0.0845,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.0845.jar",
     "log":"海啸等炮塔加入岩浆子弹\n适配v137版本注意:137以下更新可能会出现Bug建议备份好游戏数据\n加入了聚合币发射台\n修改模组列表\n悄悄话更新"
+    "yes":true
   },
  {
   "version":0.084,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.084.jar",
     "log":"在更新完成界面加入了3秒后才能关闭的按钮\n悄悄话更新!\n更新日志颜色修改为蓝色\n暗黑初始地降落核心修复\n修复了几个星球的进去就占领的bug\n模组列表修改\n反射合金配方从终极工厂移除\n加入新工厂反射合金压缩机\n之前漏写的更新日志:加入了液氮压缩机"
+    "yes":true
   },
   {
   "version":0.083,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.083.jar",
     "log":"修复了投喂榜的排名计算问题\n聚合币价格调整\n主界面提示框关闭按钮移到中间\n电磁干扰炮塔耗电量提升\n集束炸弹卡顿优化\n集束炸弹威力增强\n提示更新界面加入音乐(可关闭)\n加入紫玄炮塔,合金熔炉贴图加入,合金熔炉加强\n风扇散热器可以给钍反散热了(虽然散热不下来)\n液体物品节点材料修改\n核能运输的建筑分类到逻辑栏\n聚合币购买价钱调整\n修复星球可能不闪退了\n加入寂灭炮塔\n更新界面加入了音乐以及图片"
+    "yes":true
   },
   {
   "version":0.082,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.082.jar",
     "log":"优化了检测更新的速度(降低延迟)\n主界面加入作者名字(一个模组作者他的群里有人问高科技模组问题怪我没写作者)\n液体售卖机目前什么液体都能卖啦\n新增加增压涡轮发电机,大型钢铁太阳能板,钢铁太阳能板\n,合金热量发电机,大型钢铁电池,钢铁电池\n,钢铁粉碎机,合金熔炉\n祝你有愉快的一天"
+     "yes":true
   },
   {
   "version":0.081,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ0.081.jar",
     "log":"加入啦指令系统,在聊天栏中输入帮助即可查看\n加入啦几个小特效\n在线更新系统解决啦手机闪退问题\n优化了在线更新残留文件问题\n加载更新界面加入了logo\n不想要自动检测更新的可以在高科技设置关闭"
+   "yes":true
   },
 ]
