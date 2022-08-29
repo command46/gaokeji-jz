@@ -3,7 +3,7 @@
 "type":"item"
  "name":"copper"
  "money":1
- "mod":"模组名字"//mod.json里面的name
+ "mod":"模组名字"
 },
 {
 "type":"item"
