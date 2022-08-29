@@ -1,0 +1,26 @@
+[
+{
+"type":"item"
+ "name":"copper"
+ "money":1
+ "mod":"模组名字"//mod.json里面的name
+},
+{
+"type":"item"
+ "name":"lead"
+ "money":1
+ "mod":"模组名字"
+},
+{
+"type":"liquid"
+ "name":"water"
+ "money":0.1
+ "mod":"模组名字"
+},
+{
+"type":"block"
+ "name":"kiln"
+ "money":100
+ "mod":"模组名字"
+}
+]
