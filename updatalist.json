@@ -1,5 +1,12 @@
 [
   {
+  "version":1.05,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.05.jar",
+    "log":"加入了破碎机,可以破碎任何物品成为沙子\n加入了破碎机,可以破碎任何物品成为沙子"    
+    "yes":true
+    "time":"已开放"
+  },
+  {
   "version":1.01,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.01.jar",
     "log":"修复了基础工厂制作孢子不需要水\n加入调用导入模组接口进行导入\n核星侵蚀地难度大大降低\n主界面对话框加入更新日志按钮\n核星侵蚀地加入沙子\n删除版本开放功能(部分人网络不行导致闪退等原因)\n投喂排行榜的投喂者按钮可以点击查看投喂者信息详细\n主界面删除直接显示更新日志"    
