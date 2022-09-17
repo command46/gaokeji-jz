@@ -1,26 +1,26 @@
 [
 {
 "type":"item"
- "name":"copper"
- "money":1
- "mod":"模组名字"
+ "name":"致密金属块"
+ "money":3.5
+ "mod":"cm"
 },
 {
 "type":"item"
- "name":"lead"
- "money":1
- "mod":"模组名字"
+ "name":"强化合金块"
+ "money":80
+ "mod":"cm"
 },
 {
-"type":"liquid"
- "name":"water"
- "money":0.1
- "mod":"模组名字"
+"type":"item"
+ "name":"浓缩炸药"
+ "money":18
+ "mod":"cm"
 },
 {
-"type":"block"
- "name":"kiln"
- "money":100
- "mod":"模组名字"
-}
+"type":"item"
+ "name":"浓缩钍燃料"
+ "money":12
+ "mod":"cm"
+},
 ]
