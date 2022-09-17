@@ -1,5 +1,12 @@
 [
   {
+  "version":1.1,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.1.jar",
+    "log":"新容器:箱子,作用:可以主动输出箱子内的物品\n新建筑:种植器,用途:种植种子\n新建筑:浇水器,用途:给种植器内的种子浇水\n减少物质炮的冷却时间,物质炮射出子弹数量从1提升到2\n优化了大多数黑曜石系列贴图\n更新日志界面更美观\n重新设计投喂榜界面\n核能力墙以及钢铁力强增强范围缩小\n煤价格改为1.35聚合币\n聚合币开放定义价格接口,模组开发者可以联系我进行适配我会细心教你如何使用接口(doge)\n目前已接入压缩机械模组的价格表\n也许修复了星球闪退?\n修复了公告不显示的BUG"    
+    "yes":true
+    "time":"已开放"
+  },
+  {
   "version":1.05,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.05.jar",
     "log":"加入了破碎机,可以破碎任何物品成为沙子\n加入了破碎机,可以破碎任何物品成为沙子"    
