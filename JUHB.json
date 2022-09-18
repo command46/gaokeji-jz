@@ -23,4 +23,112 @@
  "money":12
  "mod":"cm"
 },
+{
+	"type":"item",
+	"name":"organosand",
+	"money":0.6,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"biomass",
+	"money":1.5,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"ossature",
+	"money":1.2,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"nickel",
+	"money":1.2,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"crystal",
+	"money":2.5,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"biomass-steel",
+	"money":3,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"organosilicon",
+	"money":2,
+	"mod":"bugs",
+},
+{
+	"type":"item",
+	"name":"methyl-sulfone",
+	"money":2.8,
+	"mod":"bugs",
+},
+{
+	"type":"liquid",
+	"name":"venom",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"election",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"atom",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"block",
+	"name":"ash",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"block",
+	"name":"albus",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"anatase",
+	"money":135,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"burst",
+	"money":90,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"pildelet",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"egg",
+	"money":-1,
+	"mod":"bugs",
+},
+{
+	"type":"unit",
+	"name":"alter",
+	"money":-1,
+	"mod":"bugs",
+},
 ]
