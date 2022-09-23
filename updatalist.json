@@ -1,4 +1,11 @@
 [
+   {
+  "version":1.12,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.12.jar",
+    "log":"加入防止模组死循环崩溃功能\n本功能可以检测到崩溃下次进入游戏取消加载全部内容只保留核心组件\n修复:退出地图后播种器和浇水器信息进度不会保存"    
+    "yes":true
+    "time":"已开放"
+  },
   {
   "version":1.1,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.1.jar",
