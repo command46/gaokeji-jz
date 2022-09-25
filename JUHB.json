@@ -103,18 +103,6 @@
 },
 {
 	"type":"unit",
-	"name":"anatase",
-	"money":135,
-	"mod":"bugs",
-},
-{
-	"type":"unit",
-	"name":"burst",
-	"money":90,
-	"mod":"bugs",
-},
-{
-	"type":"unit",
 	"name":"pildelet",
 	"money":-1,
 	"mod":"bugs",
@@ -128,7 +116,7 @@
 {
 	"type":"unit",
 	"name":"alter",
-	"money":-1,
+	"money":25,
 	"mod":"bugs",
 },
 ]
