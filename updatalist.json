@@ -1,4 +1,12 @@
 [
+   
+  {
+  "version":1.15,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.15.jar",
+    "log":"新工厂:电磁硅炉体积更大但可以更快的制出物品\n使用高压电弧进行制作\n新节点:激光节点Pro,相对于普通的激光节点，此激光节点拥有8个方向的传输功能,可链接更多更广\n新钻头:双重等离子钻机,双重离子激光，一次可发出四道光束\n新钻头:单离子钻机单个激光,再也不用担心有个矿物无法挖掘了\n加入反应堆发热提示(默认关闭)\n优化了解锁额外内容界面可看到效果演示图\n新增用弹出通知的方式提示是否有更新(可在高科技设置内的功能区关闭)\n修复了输入激活码错误还能触发VIP成就的BUG"    
+    "yes":true
+    "time":"已开放"
+  },
    {
   "version":1.12,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.12.jar",
