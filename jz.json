@@ -149,7 +149,7 @@
   },
 {
   "name":"Guardian"
-   "money":13
+   "money":23
   },
   {
   "name":"唯有影子陪我"
@@ -259,5 +259,17 @@
    {
   "name":"在下"
    "money":7.5
+  },
+  {
+  "name":"59hwp"
+   "money":4
+  },
+  {
+  "name":"幻"
+   "money":4
+  },
+  {
+  "name":"自由[隐身]"
+   "money":5
   },
 ]
