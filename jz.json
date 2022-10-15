@@ -295,6 +295,10 @@
    "money":4
   },
 {
+  "name":"pyro"
+   "money":4
+  },
+{
   "name":"king"
    "money":728
   "say":"i am king"
