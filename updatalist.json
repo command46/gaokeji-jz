@@ -1,5 +1,11 @@
 [
-   
+   {
+  "version":1.18,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.18.jar",
+    "log":"加入破壁机可以对墙壁进行摧毁\n游戏崩溃弹出消息框\n辅助(作弊)功能加入游戏倍速功能可-0.05~15倍速\n优化修改设置需重启对话框\n优化弹出对话框(动画更好看)\n优化贴图\n作弊菜单重新排布并且改为弹窗\n模组主界面对话框改为弹窗并带有动画\n修复了关闭了调试模式还是无法进入多人模式的BUG\n修改主界面背景为透明模组LOGO\n投喂榜加入新头像"    
+    "yes":true
+    "time":"已开放"
+  },
   {
   "version":1.15,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.15.jar",
