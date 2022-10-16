@@ -1,4 +1,11 @@
 [
+      {
+  "version":1.185,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.185.jar",
+    "log":"修复手机横屏对话框未显示返回按钮的BUG\n优化弹窗(对话框)"    
+    "yes":true
+    "time":"已开放"
+  },
    {
   "version":1.18,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.18.jar",
