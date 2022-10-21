@@ -191,7 +191,7 @@
   "name":"翾"
    "money":723.5
    "say":"Please don't let me meet anyone\nwho likes it again without results."
-    "icon":true
+    "icon":"true"
   },
   {
   "name":"Xiao_QB"
@@ -281,7 +281,7 @@
   "name":"PSR-2144-3933"
    "money":900
     "say":"Don't try to defeat me if you don't want to risk the consequence"+
-    "icon":true
+    "icon":"true"
   },
   {
   "name":"我是老六"
@@ -325,6 +325,6 @@
   {
   "name":"绿帽子协会会长"
    "money":188
-    "icon":false
+    "icon":"false"
   },
 ]
