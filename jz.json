@@ -139,15 +139,15 @@
   "name":"SNOWFOX"
    "money":6.5
   },
-{
+  {
   "name":"名字就是要叫空"
    "money":5.01
   },
-{
+  {
   "name":"绯红之渊"
    "money":10
   },
-{
+  {
   "name":"Guardian"
    "money":23
   },
@@ -167,11 +167,11 @@
   "name":"领航员"
    "money":3.5
   },
-{
+  {
   "name":"Xenoriky"
    "money":16
   },
-{
+ {
   "name":"大白"
    "money":3.5
   },
@@ -233,7 +233,7 @@
   "name":"币子"
    "money":3.5
   },
-{
+  {
   "name":"Αστέρια"
    "money":3.5
   },
@@ -273,7 +273,7 @@
   "name":"自由[隐身]"
    "money":5
   },
-{
+  {
   "name":"星海"
    "money":7.5
   },
@@ -304,7 +304,7 @@
   "name":"king"
    "money":1180
   "say":"第一永将是我"
-  "icon":true
+  "icon":"true"
   },
   {
   "name":"董"
