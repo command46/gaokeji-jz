@@ -300,12 +300,6 @@
   "name":"pyro"
    "money":4
   },
-{
-  "name":"king"
-   "money":1180
-  "say":"第一永将是我"
-  "icon":"yes"
-  },
   {
   "name":"董"
    "money":10
@@ -321,11 +315,6 @@
   {
   "name":"高梓钧"
    "money":12
-  },
-  {
-  "name":"绿帽子协会会长"
-   "money":188
-    "icon":"no"
   },
   {
   "name":"玉清"
