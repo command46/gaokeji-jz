@@ -1,4 +1,21 @@
 [
+         {
+  "version":1.19,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.19.jar",
+    "log":"!---注意本次更新皆为大版本修改---!
+修复了校验功能失效的BUG
+修复破碎机的简介错别字(作者粗心捏)
+更改大部分弹窗为半透明
+激活界面加入指示器(防止不知道激活码填写到哪里的人)
+核能类建筑修改显示核能信息栏(更加美观)
+投喂榜头像改为在线读取,可实时更新头像不用等待下一个版本更新刷新
+加入核心被攻击警报功能(此功能为额外内容需解锁)
+加入---末日武器---
+加入新用户引导界面，可帮助新玩家快速熟悉高科技功能
+删除了所以星球以及地图内容,全部科技树内容加入到赛普罗中"    
+    "yes":true
+    "time":"已开放"
+  },
       {
   "version":1.185,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.185.jar",
