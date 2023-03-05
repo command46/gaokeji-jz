@@ -1,5 +1,12 @@
 [
          {
+  "version":1.20,
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.20.jar",
+    "log":"移除激活码功能 全部功能开放 最后一个版本 其余更新进入游戏查看"    
+    "yes":true
+    "time":"已开放"
+  },
+         {
   "version":1.19,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/command46/High-tech-version/main/GKJ1.19.jar",
     "log":"!---注意本次更新皆为大版本修改---!
